@@ -1,0 +1,40 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+binary==1.0.0
+cachetools==5.3.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+contourpy==1.1.1
+cycler==0.12.0
+fonttools==4.43.0
+future @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+google-api-core==2.14.0
+google-auth==2.25.1
+google-cloud-bigquery==3.13.0
+google-cloud-core==2.3.3
+google-crc32c==1.5.0
+google-resumable-media==2.6.0
+googleapis-common-protos==1.61.0
+grpcio==1.59.3
+grpcio-status==1.59.3
+idna==3.6
+importlib-resources==6.1.0
+kiwisolver==1.4.5
+macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib==3.8.0
+packaging==23.2
+Pillow==10.0.1
+platformdirs==4.1.0
+proto-plus==1.22.3
+protobuf==4.25.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pyparsing==3.1.1
+python-dateutil==2.8.2
+requests==2.31.0
+rsa==4.9
+six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+tinydb==4.8.0
+tinyrecord==0.2.0
+urllib3==2.1.0
+zipp==3.17.0
